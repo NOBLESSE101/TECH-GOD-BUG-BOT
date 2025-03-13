@@ -1,35 +1,35 @@
-//base by Tech-God
+//base by NOBLESSE
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: @NOBLESSE
+//Instagram: NOBLESSE
+//Telegram: t.me/Noblesse10145
+//GitHub: @NOBLESSE101
+//WhatsApp: +2347040452070
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.ownernomer = "2347040452070"
+global.ownername = "🐛NOBLESSE🤖"
+global.ytname = "YT: NOBLESSE🤖"
+global.socialm = "GitHub: NOBLESSE101"
+global.location = "Nigeria, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2347040452070'  //creator number
+global.ownername = 'NOBLESSE🤖' //owner name
+global.botname = 'NOBLESSE🤖 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.packname = 'NOBLESSE'
+global.author = 'NOBLESSE\n\nContact: +2347040452070'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "Youtube NOBLESSE."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Vb4zjGT4SpkQ6Ar7fH0z'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
+    prem: 'This feature can be used by NOBLESSE or premium user only',
+    admin: 'This feature can be used by NOBLESSE or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
+    owner: 'This feature can be used by NOBLESSE or owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
