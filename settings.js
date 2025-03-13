@@ -1,9 +1,9 @@
 //base by NOBLESSE
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @NOBLESSE-k4b
+//YouTube: @Noblesse-k4b
 //Instagram: NOBLESSE
 //Telegram: t.me/Noblesse10145
-//GitHub: @NOBLESSE10145
+//GitHub: @Noblesse10145
 //WhatsApp: +2347040452070
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
