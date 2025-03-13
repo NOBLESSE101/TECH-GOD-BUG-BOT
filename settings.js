@@ -3,7 +3,7 @@
 //YouTube: @NOBLESSE
 //Instagram: NOBLESSE
 //Telegram: t.me/Noblesse10145
-//GitHub: @NOBLESSE101
+//GitHub: @NOBLESSE10145
 //WhatsApp: +2347040452070
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
